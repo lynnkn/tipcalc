@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Tip Calculator</string>
+    <string name="text_label">Enter service charge:</string>
+    <string name="tip_label">Choose tip amount (%):</string>
+
+    <string-array name="tip_amounts">
+        <item>10%</item>
+        <item>15%</item>
+        <item>18%</item>
+        <item>20%</item>
+    </string-array>
 </resources>
